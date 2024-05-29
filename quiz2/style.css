@@ -1,0 +1,40 @@
+#daftar-surah, #text-arabic {
+    background-color: #c9c3e7;
+}
+
+#daftar-surah .list-group-item {
+    background-color: #ddfedb;
+    cursor: pointer;
+}
+
+#daftar-surah .list-group-item.active {
+    background-color: #3d7059 !important;
+}
+
+body {  
+    background-color: #4b4480;
+}
+
+.text-container {
+    background-color: #F1FADA;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.arabic-text,
+.latin-text,
+.indonesia-text {
+    padding-top: 20px;
+    margin-bottom: 5px;
+}
+.latin-text,
+.indonesia-text {
+    font-size: 70%;
+}
+
+.surah-arti {
+    font-size: 0.9rem;
+    color: #000000;
+}
+
+
